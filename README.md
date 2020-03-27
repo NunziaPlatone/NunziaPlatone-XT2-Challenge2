@@ -1,4 +1,6 @@
 # NunziaPlatone-XT2-Challenge2
+https://nunziaplatone.github.io/NunziaPlatone-XT2-Challenge2/
+
 Uitleg digitale klok
 
 Ik heb een digitale klok gemaakt, zodat de mensen op mars toch nog het aardse dag en nacht ritme hebben. 
